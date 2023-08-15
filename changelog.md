@@ -1,5 +1,14 @@
 # Changelog
 
+## Unreleased
+TODO: verify that this wasn't unnecessary w/ quoting title 
+- Merged in jm289765 PR, Fix #53: Cannot create clipping with certain characters in title. 
+TODO: seek permission or ask for forgiveness later?
+TODO: make discrete pixel sized favicons like in the existing. Do w/ sketch etc. 
+TODO: test icons w/ different Chrome skins, Firefox?
+- Updated extension icons to use new Obsidian icon
+TODO: test and merge in 2 other PRs
+
 ## 0.5.0
 
 -   Quite a rewrite, redid the clipping/test functionality so it makes use of the same function

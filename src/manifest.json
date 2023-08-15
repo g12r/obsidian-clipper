@@ -31,8 +31,8 @@
         }
     ],
     "icons": { 
-        "16": "icons/favicon-16x16.png",
-        "48": "icons/favicon-48x48.png",
-        "128": "icons/favicon-128x128.png"
+        "16": "icons/obsidian.png",
+        "48": "icons/obsidian.png",
+        "128": "icons/obsidian.png"
     }
 }
